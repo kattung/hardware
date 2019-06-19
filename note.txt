@@ -1,0 +1,5 @@
+* scratch register
+  read as written register
+  that could be use to read/write anything
+
+* scratch pad is SRAM
